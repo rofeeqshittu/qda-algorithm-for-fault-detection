@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "QDA Algorithm for Fault Detection in Boeing 737 Aircraft"
+authors:
+  - given-names: Shittu Rofeeq
+date-released: 2025-08-25
+version: 1.0.0
+license: MIT
+message: "If you use this code or results in your research, please cite as follows."
