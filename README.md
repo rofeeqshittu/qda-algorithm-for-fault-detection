@@ -1,4 +1,3 @@
-# qda-algorithm-for-fault-detection
 # QDA Algorithm for Fault Detection in Boeing 737 Aircraft
 
 ## Project Overview
