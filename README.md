@@ -7,7 +7,11 @@ This repository contains the implementation and research code for:
 **Development of a Quadratic Discriminant Analysis (QDA) Algorithm for Fault Detection in Boeing 737 Aircraft**
 
 By Shittu Rofeeq Adeleke (U21CS1046)
-Department of Computer Science, Air Force Institute of Technology, Kaduna
+
+Department of Computer Science, Air Force 
+
+Institute of Technology, Kaduna
+
 August 2025
 
 ## Abstract
@@ -81,4 +85,4 @@ See the project report for full references, including:
 This project is for academic and research purposes. Please cite appropriately if used.
 
 ---
-For questions or collaboration, contact Shittu Rofeeq (U21CS1046).
+For questions or collaboration, contact Rofeeq Shittu.
